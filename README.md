@@ -27,7 +27,6 @@ Aspiring developer passionate about building, learning, and creating.
 
 - Studying Computer Science at ULPGC.
 - Working on exciting projects and growing my programming skills.
-- Planning to launch my own portfolio website soon—stay tuned!
 
 ---
 
